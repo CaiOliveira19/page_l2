@@ -135,7 +135,7 @@
     height: 100vh;
     min-height: 1080px;
     height: 1080px;
-    background-image: url(/img/bg3.jpg);
+    background-image: url(img/bg3.jpg);
     background-size: cover;
     background-position: center;
     z-index: 1;
@@ -148,7 +148,7 @@
     height: auto;
     min-height: 1080px;
     height: 1080px;
-    background-image: url(/img/obj3-3.png);
+    background-image: url(img/obj3-3.png);
     background-size: cover;
     background-position: center;
     z-index: 1;
@@ -161,7 +161,7 @@
     height: 100vh;
     min-height: 1080px;
     height: 1080px;
-    background-image: url(/img/obj3-1.png);
+    background-image: url(img/obj3-1.png);
     background-size: cover;
     background-position: center;
     z-index: 3;
@@ -174,7 +174,7 @@
     height: auto;
     min-height: 1080px;
     height: 1080px;
-    background-image: url(/img/obj3-2.png);
+    background-image: url(img/obj3-2.png);
     background-size: cover;
     background-position: center;
     z-index: 2;
